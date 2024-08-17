@@ -8,7 +8,7 @@
 
 #### Since VPC-A and VPC-B have the same scenario, they can share the same TGW Route Table.
 
-```http
+```
   TGW Route Table for VPC-A and VPC-B
 ```
 
@@ -19,7 +19,7 @@
 
 
 ##
-```http
+```
   TGW Route Table for VPC-C
 ```
 
@@ -32,7 +32,7 @@
 
 ## VPC Route Tables
 
-```http
+```
   Add routes in Private Route Table - A and B
 ```
 
@@ -42,7 +42,7 @@
 
 
 ##
-```http
+```
   Routes for Private Route Table - C
 ```
 
@@ -55,7 +55,7 @@
 
 
 ##
-```http
+```
   Routes for Public Route Table - C
 ```
 
