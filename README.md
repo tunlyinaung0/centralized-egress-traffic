@@ -1,6 +1,6 @@
 # Centralized Egress Traffic
 
-<img width="767" alt="Centralized Egress Traffic" src="https://github.com/user-attachments/assets/bf80d664-12a0-45a9-9cf7-11f7043f264a">
+![Centralized Egress Traffic](https://github.com/user-attachments/assets/bcc0a106-209e-4175-9849-3809a484eee9)
 
 
 
