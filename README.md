@@ -6,11 +6,11 @@
 
 ## Transit Gateway Route Table
 
-#### Since VPC-A and VPC-B have the same scenario, they can share the same TGW Route Table.
+#### Note: Since VPC-A and VPC-B have the same scenario, they can share the same TGW Route Table.
 
-```
-  TGW Route Table for VPC-A and VPC-B
-```
+
+####  TGW Route Table for VPC-A and VPC-B
+
 
 |    Destination     |     Target     | 
 |    :--------       |    :-------    | 
@@ -19,9 +19,9 @@
 
 
 ##
-```
-  TGW Route Table for VPC-C
-```
+
+####  TGW Route Table for VPC-C
+
 
 |    Destination     |     Target       | 
 |    :--------       |    :-------      | 
@@ -32,9 +32,9 @@
 
 ## VPC Route Tables
 
-```
-  Add routes in Private Route Table - A and B
-```
+
+####  Add routes in Private Route Table - A and B
+
 
 |    Destination     |     Target          | 
 |    :--------       |    :-------         | 
@@ -42,9 +42,9 @@
 
 
 ##
-```
-  Routes for Private Route Table - C
-```
+
+####  Routes for Private Route Table - C
+
 
 |    Destination     |     Target          | 
 |    :--------       |    :-------         | 
@@ -55,9 +55,9 @@
 
 
 ##
-```
-  Routes for Public Route Table - C
-```
+
+####  Routes for Public Route Table - C
+
 
 |    Destination     |     Target            | 
 |    :--------       |    :-------           | 
