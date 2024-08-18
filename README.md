@@ -1,6 +1,6 @@
 # Centralized Egress Traffic
 
-![Centralized Egress Traffic](https://github.com/user-attachments/assets/bcc0a106-209e-4175-9849-3809a484eee9)
+![Centralized Egress Traffic](https://github.com/user-attachments/assets/419342e9-615d-4aa2-baef-a6fe2486465d)
 
 
 
