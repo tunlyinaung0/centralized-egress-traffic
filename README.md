@@ -4,6 +4,23 @@
 
 
 
+
+## Components to be created in this scenario
+
+- VPC-A with CIDR 10.0.0.0/16
+- VPC-B with CIDR 10.1.0.0/16
+- VPC-C with CIDR 10.2.0.0/16
+- 1 Private Subnet and Private Route table for VPC-A
+- 1 Private Subnet and Private Route table for VPC-B
+- 1 Private Subnet, 1 Public Subnet, Public Route Table and Private Route table for VPC-C
+- Internet Gateway and NAT Gateway for VPC-C
+- Transit Gateway
+- 2 Transit Gateway Route Tables ( one for VPC-A and B , another for VPC-C )
+- 3 Transit Gateway Attachments ( For VPC-A,B and C)
+- 2 ec2 instances to be created in private subnets of VPC-A and VPC-B with no internet access. 
+
+
+
 ## Transit Gateway Route Table
 
 #### Note: Since VPC-A and VPC-B have the same scenario, they can share the same TGW Route Table.
